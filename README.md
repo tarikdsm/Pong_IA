@@ -1,5 +1,9 @@
 # Pong IA
 
+[Jogar no GitHub Pages](https://tarikdsm.github.io/Pong_IA/)
+
+![Screenshot do jogo](docs/images/imagem_01.png)
+
 Pong 2D para browser com motor deterministico espelhado em Python e TypeScript,
 treino em PyTorch e inferencia ONNX no frontend.
 
