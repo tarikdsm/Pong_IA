@@ -1,0 +1,13 @@
+[project]
+name = "pong-engine"
+version = "0.1.0"
+description = "Canonical deterministic Pong engine used by Pong IA."
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.4,<3.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = false

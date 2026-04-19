@@ -1,0 +1,35 @@
+[project]
+name = "pong-ia"
+version = "0.1.0"
+description = "Deterministic Pong engine with Python/TypeScript parity."
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.4,<3.0",
+    "matplotlib>=3.9,<4.0",
+    "onnx>=1.17,<2.0",
+    "onnxruntime>=1.17,<2.0",
+    "pytest>=9.0,<10.0",
+    "ruff>=0.15,<1.0",
+    "torch>=2.4,<3.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+testpaths = ["engine/tests", "training/tests", "tests"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true

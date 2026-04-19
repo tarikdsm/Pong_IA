@@ -1,0 +1,87 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# --- Node / TypeScript ---
+node_modules/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+.turbo/
+.vite/
+
+# --- Vite / Web build ---
+web/dist/
+web/.vite/
+*.tsbuildinfo
+
+# --- IDE / SO ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.claude/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# --- Treino / Artefatos de modelo ---
+training/checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Modelo ONNX servido pelo browser é gerado pelo treino — não versionar
+# (exceção: um small.onnx para CI/tests pode ser committado explicitamente)
+
+# Métricas e logs de treino
+training/runs/
+training/debug/
+training/reports/
+*.jsonl
+tensorboard_logs/
+
+# --- Testes / Cobertura ---
+.nyc_output/
+coverage/
+web/coverage/
+
+# --- Env / Secrets ---
+.env
+.env.local
+.env.*.local
+*.secret
+
+# --- Arquivos gerados (config derivada de shared/config.json) ---
+# Documentar aqui quais são AUTO-GERADOS para evitar confusão no diff:
+# - engine/pong_engine/config.py  ← gerado por scripts/gen_config.py
+# - web/src/engine/config.ts       ← gerado por scripts/gen_config.py
+# Optamos por VERSIONAR os gerados (facilita onboarding, não precisa rodar script antes de ler código).
+# Se mudar essa decisão, adicionar as linhas abaixo:
+# engine/pong_engine/config.py
+# web/src/engine/config.ts
+
+# --- Temporários ---
+*.tmp
+*.bak
+*~

@@ -1,0 +1,6018 @@
+{
+  "name": "short_game_low_speed",
+  "seed": 42,
+  "initialState": {
+    "ball_x": 39.0,
+    "ball_y": 29.0,
+    "ball_vx": 0.1143431126059768,
+    "ball_vy": -0.09708580019537827,
+    "ball_speed": 0.15,
+    "paddle_left_y": 24,
+    "paddle_right_y": 24,
+    "score_left": 0,
+    "score_right": 0,
+    "tick": 0
+  },
+  "steps": [
+    {
+      "tick": 0,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7739560485559633
+      ],
+      "expectedState": {
+        "ball_x": 39.11434311260598,
+        "ball_y": 28.90291419980462,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 1
+      }
+    },
+    {
+      "tick": 1,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4388784397520523
+      ],
+      "expectedState": {
+        "ball_x": 39.22868622521196,
+        "ball_y": 28.80582839960924,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 2
+      }
+    },
+    {
+      "tick": 2,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8585979199113825
+      ],
+      "expectedState": {
+        "ball_x": 39.34302933781794,
+        "ball_y": 28.70874259941386,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 3
+      }
+    },
+    {
+      "tick": 3,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.6973680290593639
+      ],
+      "expectedState": {
+        "ball_x": 39.45737245042392,
+        "ball_y": 28.61165679921848,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 4
+      }
+    },
+    {
+      "tick": 4,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.09417734788764953
+      ],
+      "expectedState": {
+        "ball_x": 39.5717155630299,
+        "ball_y": 28.5145709990231,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 5
+      }
+    },
+    {
+      "tick": 5,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9756223516367559
+      ],
+      "expectedState": {
+        "ball_x": 39.68605867563588,
+        "ball_y": 28.41748519882772,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 6
+      }
+    },
+    {
+      "tick": 6,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.761139701990353
+      ],
+      "expectedState": {
+        "ball_x": 39.80040178824186,
+        "ball_y": 28.32039939863234,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 7
+      }
+    },
+    {
+      "tick": 7,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7860643052769538
+      ],
+      "expectedState": {
+        "ball_x": 39.914744900847836,
+        "ball_y": 28.22331359843696,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 8
+      }
+    },
+    {
+      "tick": 8,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.12811363267554587
+      ],
+      "expectedState": {
+        "ball_x": 40.029088013453816,
+        "ball_y": 28.12622779824158,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 9
+      }
+    },
+    {
+      "tick": 9,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.45038593789556713
+      ],
+      "expectedState": {
+        "ball_x": 40.143431126059795,
+        "ball_y": 28.0291419980462,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 10
+      }
+    },
+    {
+      "tick": 10,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.37079802423258124
+      ],
+      "expectedState": {
+        "ball_x": 40.257774238665775,
+        "ball_y": 27.93205619785082,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 24,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 11
+      }
+    },
+    {
+      "tick": 11,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.9267649888486018
+      ],
+      "expectedState": {
+        "ball_x": 40.372117351271754,
+        "ball_y": 27.83497039765544,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 12
+      }
+    },
+    {
+      "tick": 12,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6438651200806645
+      ],
+      "expectedState": {
+        "ball_x": 40.486460463877734,
+        "ball_y": 27.73788459746006,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 13
+      }
+    },
+    {
+      "tick": 13,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.82276161327083
+      ],
+      "expectedState": {
+        "ball_x": 40.60080357648371,
+        "ball_y": 27.64079879726468,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 14
+      }
+    },
+    {
+      "tick": 14,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.44341419882733113
+      ],
+      "expectedState": {
+        "ball_x": 40.71514668908969,
+        "ball_y": 27.5437129970693,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 15
+      }
+    },
+    {
+      "tick": 15,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2272387217847769
+      ],
+      "expectedState": {
+        "ball_x": 40.82948980169567,
+        "ball_y": 27.44662719687392,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 16
+      }
+    },
+    {
+      "tick": 16,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5545847870158348
+      ],
+      "expectedState": {
+        "ball_x": 40.94383291430165,
+        "ball_y": 27.34954139667854,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 17
+      }
+    },
+    {
+      "tick": 17,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.06381725610417532
+      ],
+      "expectedState": {
+        "ball_x": 41.05817602690763,
+        "ball_y": 27.25245559648316,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 18
+      }
+    },
+    {
+      "tick": 18,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8276311719925821
+      ],
+      "expectedState": {
+        "ball_x": 41.17251913951361,
+        "ball_y": 27.15536979628778,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 19
+      }
+    },
+    {
+      "tick": 19,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6316643991220648
+      ],
+      "expectedState": {
+        "ball_x": 41.28686225211959,
+        "ball_y": 27.0582839960924,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 20
+      }
+    },
+    {
+      "tick": 20,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7580877400853738
+      ],
+      "expectedState": {
+        "ball_x": 41.40120536472557,
+        "ball_y": 26.96119819589702,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 21
+      }
+    },
+    {
+      "tick": 21,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.35452596812986836
+      ],
+      "expectedState": {
+        "ball_x": 41.51554847733155,
+        "ball_y": 26.86411239570164,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 22
+      }
+    },
+    {
+      "tick": 22,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9706980243949033
+      ],
+      "expectedState": {
+        "ball_x": 41.62989158993753,
+        "ball_y": 26.76702659550626,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 23
+      }
+    },
+    {
+      "tick": 23,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8931211213221977
+      ],
+      "expectedState": {
+        "ball_x": 41.74423470254351,
+        "ball_y": 26.66994079531088,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 24
+      }
+    },
+    {
+      "tick": 24,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7783834970737619
+      ],
+      "expectedState": {
+        "ball_x": 41.85857781514949,
+        "ball_y": 26.5728549951155,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 25
+      }
+    },
+    {
+      "tick": 25,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.19463870785196757
+      ],
+      "expectedState": {
+        "ball_x": 41.97292092775547,
+        "ball_y": 26.47576919492012,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 26
+      }
+    },
+    {
+      "tick": 26,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4667210037270342
+      ],
+      "expectedState": {
+        "ball_x": 42.08726404036145,
+        "ball_y": 26.37868339472474,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 27
+      }
+    },
+    {
+      "tick": 27,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.04380376578722878
+      ],
+      "expectedState": {
+        "ball_x": 42.201607152967426,
+        "ball_y": 26.28159759452936,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 28
+      }
+    },
+    {
+      "tick": 28,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.15428949206754783
+      ],
+      "expectedState": {
+        "ball_x": 42.315950265573406,
+        "ball_y": 26.18451179433398,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 29
+      }
+    },
+    {
+      "tick": 29,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.6830489532424546
+      ],
+      "expectedState": {
+        "ball_x": 42.430293378179385,
+        "ball_y": 26.0874259941386,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 30
+      }
+    },
+    {
+      "tick": 30,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7447621559078171
+      ],
+      "expectedState": {
+        "ball_x": 42.544636490785365,
+        "ball_y": 25.99034019394322,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 22,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 31
+      }
+    },
+    {
+      "tick": 31,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.96750973243421
+      ],
+      "expectedState": {
+        "ball_x": 42.658979603391344,
+        "ball_y": 25.89325439374784,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 32
+      }
+    },
+    {
+      "tick": 32,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.32582535813815194
+      ],
+      "expectedState": {
+        "ball_x": 42.773322715997324,
+        "ball_y": 25.79616859355246,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 33
+      }
+    },
+    {
+      "tick": 33,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.3704597060348689
+      ],
+      "expectedState": {
+        "ball_x": 42.8876658286033,
+        "ball_y": 25.69908279335708,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 34
+      }
+    },
+    {
+      "tick": 34,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4695558112758079
+      ],
+      "expectedState": {
+        "ball_x": 43.00200894120928,
+        "ball_y": 25.6019969931617,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 35
+      }
+    },
+    {
+      "tick": 35,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.1894713590842857
+      ],
+      "expectedState": {
+        "ball_x": 43.11635205381526,
+        "ball_y": 25.50491119296632,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 36
+      }
+    },
+    {
+      "tick": 36,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.12992150533547164
+      ],
+      "expectedState": {
+        "ball_x": 43.23069516642124,
+        "ball_y": 25.40782539277094,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 37
+      }
+    },
+    {
+      "tick": 37,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.47570492622593374
+      ],
+      "expectedState": {
+        "ball_x": 43.34503827902722,
+        "ball_y": 25.31073959257556,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 38
+      }
+    },
+    {
+      "tick": 38,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2269093490508841
+      ],
+      "expectedState": {
+        "ball_x": 43.4593813916332,
+        "ball_y": 25.21365379238018,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 39
+      }
+    },
+    {
+      "tick": 39,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.6698139946825103
+      ],
+      "expectedState": {
+        "ball_x": 43.57372450423918,
+        "ball_y": 25.116567992184798,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 40
+      }
+    },
+    {
+      "tick": 40,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.43715191887233074
+      ],
+      "expectedState": {
+        "ball_x": 43.68806761684516,
+        "ball_y": 25.019482191989418,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 41
+      }
+    },
+    {
+      "tick": 41,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8326781960578374
+      ],
+      "expectedState": {
+        "ball_x": 43.80241072945114,
+        "ball_y": 24.922396391794038,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 42
+      }
+    },
+    {
+      "tick": 42,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7002651020022491
+      ],
+      "expectedState": {
+        "ball_x": 43.91675384205712,
+        "ball_y": 24.825310591598658,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 43
+      }
+    },
+    {
+      "tick": 43,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.31236664138204107
+      ],
+      "expectedState": {
+        "ball_x": 44.0310969546631,
+        "ball_y": 24.728224791403278,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 44
+      }
+    },
+    {
+      "tick": 44,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8322598013952011
+      ],
+      "expectedState": {
+        "ball_x": 44.14544006726908,
+        "ball_y": 24.631138991207898,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 45
+      }
+    },
+    {
+      "tick": 45,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8047643574968019
+      ],
+      "expectedState": {
+        "ball_x": 44.25978317987506,
+        "ball_y": 24.534053191012518,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 46
+      }
+    },
+    {
+      "tick": 46,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.38747837903017446
+      ],
+      "expectedState": {
+        "ball_x": 44.37412629248104,
+        "ball_y": 24.436967390817138,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 47
+      }
+    },
+    {
+      "tick": 47,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2883281039302441
+      ],
+      "expectedState": {
+        "ball_x": 44.48846940508702,
+        "ball_y": 24.339881590621758,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 48
+      }
+    },
+    {
+      "tick": 48,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.6824955039749755
+      ],
+      "expectedState": {
+        "ball_x": 44.602812517692996,
+        "ball_y": 24.242795790426378,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 49
+      }
+    },
+    {
+      "tick": 49,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.1397524836093098
+      ],
+      "expectedState": {
+        "ball_x": 44.717155630298976,
+        "ball_y": 24.145709990230998,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 50
+      }
+    },
+    {
+      "tick": 50,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.19990820247510832
+      ],
+      "expectedState": {
+        "ball_x": 44.831498742904955,
+        "ball_y": 24.048624190035618,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 51
+      }
+    },
+    {
+      "tick": 51,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.007362269751005512
+      ],
+      "expectedState": {
+        "ball_x": 44.945841855510935,
+        "ball_y": 23.951538389840238,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 20,
+        "paddle_right_y": 20,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 52
+      }
+    },
+    {
+      "tick": 52,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.7869243775021384
+      ],
+      "expectedState": {
+        "ball_x": 45.060184968116914,
+        "ball_y": 23.854452589644858,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 20,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 53
+      }
+    },
+    {
+      "tick": 53,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6648508565920321
+      ],
+      "expectedState": {
+        "ball_x": 45.174528080722894,
+        "ball_y": 23.757366789449478,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 54
+      }
+    },
+    {
+      "tick": 54,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7051653786263351
+      ],
+      "expectedState": {
+        "ball_x": 45.28887119332887,
+        "ball_y": 23.660280989254098,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 55
+      }
+    },
+    {
+      "tick": 55,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7807290310219679
+      ],
+      "expectedState": {
+        "ball_x": 45.40321430593485,
+        "ball_y": 23.563195189058717,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 56
+      }
+    },
+    {
+      "tick": 56,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.45891577553833995
+      ],
+      "expectedState": {
+        "ball_x": 45.51755741854083,
+        "ball_y": 23.466109388863337,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 57
+      }
+    },
+    {
+      "tick": 57,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5687411959528937
+      ],
+      "expectedState": {
+        "ball_x": 45.63190053114681,
+        "ball_y": 23.369023588667957,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 58
+      }
+    },
+    {
+      "tick": 58,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.13979699812765745
+      ],
+      "expectedState": {
+        "ball_x": 45.74624364375279,
+        "ball_y": 23.271937788472577,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 59
+      }
+    },
+    {
+      "tick": 59,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.11453007353597344
+      ],
+      "expectedState": {
+        "ball_x": 45.86058675635877,
+        "ball_y": 23.174851988277197,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 60
+      }
+    },
+    {
+      "tick": 60,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.6684029617904717
+      ],
+      "expectedState": {
+        "ball_x": 45.97492986896475,
+        "ball_y": 23.077766188081817,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 61
+      }
+    },
+    {
+      "tick": 61,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4710962061431325
+      ],
+      "expectedState": {
+        "ball_x": 46.08927298157073,
+        "ball_y": 22.980680387886437,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 62
+      }
+    },
+    {
+      "tick": 62,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5652361064811888
+      ],
+      "expectedState": {
+        "ball_x": 46.20361609417671,
+        "ball_y": 22.883594587691057,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 63
+      }
+    },
+    {
+      "tick": 63,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7649988574160256
+      ],
+      "expectedState": {
+        "ball_x": 46.31795920678269,
+        "ball_y": 22.786508787495677,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 64
+      }
+    },
+    {
+      "tick": 64,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6347183200005908
+      ],
+      "expectedState": {
+        "ball_x": 46.43230231938867,
+        "ball_y": 22.689422987300297,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 65
+      }
+    },
+    {
+      "tick": 65,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5535794006579958
+      ],
+      "expectedState": {
+        "ball_x": 46.54664543199465,
+        "ball_y": 22.592337187104917,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 66
+      }
+    },
+    {
+      "tick": 66,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5592071607454135
+      ],
+      "expectedState": {
+        "ball_x": 46.66098854460063,
+        "ball_y": 22.495251386909537,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 67
+      }
+    },
+    {
+      "tick": 67,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.3039500980626122
+      ],
+      "expectedState": {
+        "ball_x": 46.77533165720661,
+        "ball_y": 22.398165586714157,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 68
+      }
+    },
+    {
+      "tick": 68,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.030817834567939406
+      ],
+      "expectedState": {
+        "ball_x": 46.889674769812586,
+        "ball_y": 22.301079786518777,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 69
+      }
+    },
+    {
+      "tick": 69,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.43671738923236236
+      ],
+      "expectedState": {
+        "ball_x": 47.004017882418566,
+        "ball_y": 22.203993986323397,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 70
+      }
+    },
+    {
+      "tick": 70,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2145846728195292
+      ],
+      "expectedState": {
+        "ball_x": 47.118360995024545,
+        "ball_y": 22.106908186128017,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 71
+      }
+    },
+    {
+      "tick": 71,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.40852864372463615
+      ],
+      "expectedState": {
+        "ball_x": 47.232704107630525,
+        "ball_y": 22.009822385932637,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 72
+      }
+    },
+    {
+      "tick": 72,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8534030732681661
+      ],
+      "expectedState": {
+        "ball_x": 47.347047220236504,
+        "ball_y": 21.912736585737257,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 18,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 73
+      }
+    },
+    {
+      "tick": 73,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.23393948586534075
+      ],
+      "expectedState": {
+        "ball_x": 47.461390332842484,
+        "ball_y": 21.815650785541877,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 74
+      }
+    },
+    {
+      "tick": 74,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.05830274168906602
+      ],
+      "expectedState": {
+        "ball_x": 47.57573344544846,
+        "ball_y": 21.718564985346497,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 75
+      }
+    },
+    {
+      "tick": 75,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.28138389202199654
+      ],
+      "expectedState": {
+        "ball_x": 47.69007655805444,
+        "ball_y": 21.621479185151117,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 76
+      }
+    },
+    {
+      "tick": 76,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2935937577666836
+      ],
+      "expectedState": {
+        "ball_x": 47.80441967066042,
+        "ball_y": 21.524393384955737,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 77
+      }
+    },
+    {
+      "tick": 77,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6619165147268951
+      ],
+      "expectedState": {
+        "ball_x": 47.9187627832664,
+        "ball_y": 21.427307584760356,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 78
+      }
+    },
+    {
+      "tick": 78,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5570321523412783
+      ],
+      "expectedState": {
+        "ball_x": 48.03310589587238,
+        "ball_y": 21.330221784564976,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 79
+      }
+    },
+    {
+      "tick": 79,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7838982091064135
+      ],
+      "expectedState": {
+        "ball_x": 48.14744900847836,
+        "ball_y": 21.233135984369596,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 80
+      }
+    },
+    {
+      "tick": 80,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6643135403273875
+      ],
+      "expectedState": {
+        "ball_x": 48.26179212108434,
+        "ball_y": 21.136050184174216,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 81
+      }
+    },
+    {
+      "tick": 81,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4063868614400705
+      ],
+      "expectedState": {
+        "ball_x": 48.37613523369032,
+        "ball_y": 21.038964383978836,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 82
+      }
+    },
+    {
+      "tick": 82,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8140203846660347
+      ],
+      "expectedState": {
+        "ball_x": 48.4904783462963,
+        "ball_y": 20.941878583783456,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 83
+      }
+    },
+    {
+      "tick": 83,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.1669729199077039
+      ],
+      "expectedState": {
+        "ball_x": 48.60482145890228,
+        "ball_y": 20.844792783588076,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 84
+      }
+    },
+    {
+      "tick": 84,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.022712073133860478
+      ],
+      "expectedState": {
+        "ball_x": 48.71916457150826,
+        "ball_y": 20.747706983392696,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 85
+      }
+    },
+    {
+      "tick": 85,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.09004786077564175
+      ],
+      "expectedState": {
+        "ball_x": 48.83350768411424,
+        "ball_y": 20.650621183197316,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 86
+      }
+    },
+    {
+      "tick": 86,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7223593505964503
+      ],
+      "expectedState": {
+        "ball_x": 48.94785079672022,
+        "ball_y": 20.553535383001936,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 87
+      }
+    },
+    {
+      "tick": 87,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4618772302513874
+      ],
+      "expectedState": {
+        "ball_x": 49.0621939093262,
+        "ball_y": 20.456449582806556,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 88
+      }
+    },
+    {
+      "tick": 88,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.1612717790336018
+      ],
+      "expectedState": {
+        "ball_x": 49.17653702193218,
+        "ball_y": 20.359363782611176,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 89
+      }
+    },
+    {
+      "tick": 89,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5010447751033635
+      ],
+      "expectedState": {
+        "ball_x": 49.290880134538156,
+        "ball_y": 20.262277982415796,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 90
+      }
+    },
+    {
+      "tick": 90,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.15231210271316842
+      ],
+      "expectedState": {
+        "ball_x": 49.405223247144136,
+        "ball_y": 20.165192182220416,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 91
+      }
+    },
+    {
+      "tick": 91,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.696320375077736
+      ],
+      "expectedState": {
+        "ball_x": 49.519566359750115,
+        "ball_y": 20.068106382025036,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 92
+      }
+    },
+    {
+      "tick": 92,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4461562755740307
+      ],
+      "expectedState": {
+        "ball_x": 49.633909472356095,
+        "ball_y": 19.971020581829656,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 16,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 93
+      }
+    },
+    {
+      "tick": 93,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.3810212260964825
+      ],
+      "expectedState": {
+        "ball_x": 49.748252584962074,
+        "ball_y": 19.873934781634276,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 94
+      }
+    },
+    {
+      "tick": 94,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.3015120891478765
+      ],
+      "expectedState": {
+        "ball_x": 49.862595697568054,
+        "ball_y": 19.776848981438896,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 95
+      }
+    },
+    {
+      "tick": 95,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6302825931188885
+      ],
+      "expectedState": {
+        "ball_x": 49.97693881017403,
+        "ball_y": 19.679763181243516,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 96
+      }
+    },
+    {
+      "tick": 96,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.3618126105533904
+      ],
+      "expectedState": {
+        "ball_x": 50.09128192278001,
+        "ball_y": 19.582677381048136,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 97
+      }
+    },
+    {
+      "tick": 97,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.087649919316101
+      ],
+      "expectedState": {
+        "ball_x": 50.20562503538599,
+        "ball_y": 19.485591580852756,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 98
+      }
+    },
+    {
+      "tick": 98,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.11800590212051532
+      ],
+      "expectedState": {
+        "ball_x": 50.31996814799197,
+        "ball_y": 19.388505780657376,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 99
+      }
+    },
+    {
+      "tick": 99,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9618976645495145
+      ],
+      "expectedState": {
+        "ball_x": 50.43431126059795,
+        "ball_y": 19.291419980461995,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 100
+      }
+    },
+    {
+      "tick": 100,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.908580690707607
+      ],
+      "expectedState": {
+        "ball_x": 50.54865437320393,
+        "ball_y": 19.194334180266615,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 101
+      }
+    },
+    {
+      "tick": 101,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.6997071338107496
+      ],
+      "expectedState": {
+        "ball_x": 50.66299748580991,
+        "ball_y": 19.097248380071235,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 102
+      }
+    },
+    {
+      "tick": 102,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2658699614595196
+      ],
+      "expectedState": {
+        "ball_x": 50.77734059841589,
+        "ball_y": 19.000162579875855,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 103
+      }
+    },
+    {
+      "tick": 103,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9691763773477239
+      ],
+      "expectedState": {
+        "ball_x": 50.89168371102187,
+        "ball_y": 18.903076779680475,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 104
+      }
+    },
+    {
+      "tick": 104,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7787509039657946
+      ],
+      "expectedState": {
+        "ball_x": 51.00602682362785,
+        "ball_y": 18.805990979485095,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 105
+      }
+    },
+    {
+      "tick": 105,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7168901891589956
+      ],
+      "expectedState": {
+        "ball_x": 51.12036993623383,
+        "ball_y": 18.708905179289715,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 106
+      }
+    },
+    {
+      "tick": 106,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.44936150214378867
+      ],
+      "expectedState": {
+        "ball_x": 51.23471304883981,
+        "ball_y": 18.611819379094335,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 107
+      }
+    },
+    {
+      "tick": 107,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.272241561845159
+      ],
+      "expectedState": {
+        "ball_x": 51.34905616144579,
+        "ball_y": 18.514733578898955,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 108
+      }
+    },
+    {
+      "tick": 108,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.0963909621534993
+      ],
+      "expectedState": {
+        "ball_x": 51.46339927405177,
+        "ball_y": 18.417647778703575,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 109
+      }
+    },
+    {
+      "tick": 109,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9026023965438417
+      ],
+      "expectedState": {
+        "ball_x": 51.57774238665775,
+        "ball_y": 18.320561978508195,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 110
+      }
+    },
+    {
+      "tick": 110,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.45577628983361107
+      ],
+      "expectedState": {
+        "ball_x": 51.692085499263726,
+        "ball_y": 18.223476178312815,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 111
+      }
+    },
+    {
+      "tick": 111,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.20236336479523032
+      ],
+      "expectedState": {
+        "ball_x": 51.806428611869705,
+        "ball_y": 18.126390378117435,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 112
+      }
+    },
+    {
+      "tick": 112,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.3059566241506525
+      ],
+      "expectedState": {
+        "ball_x": 51.920771724475685,
+        "ball_y": 18.029304577922055,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 20,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 113
+      }
+    },
+    {
+      "tick": 113,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.579219568941896
+      ],
+      "expectedState": {
+        "ball_x": 52.035114837081665,
+        "ball_y": 17.932218777726675,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 14,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 114
+      }
+    },
+    {
+      "tick": 114,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.1767727829392317
+      ],
+      "expectedState": {
+        "ball_x": 52.149457949687644,
+        "ball_y": 17.835132977531295,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 20,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 115
+      }
+    },
+    {
+      "tick": 115,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8566142840923755
+      ],
+      "expectedState": {
+        "ball_x": 52.26380106229362,
+        "ball_y": 17.738047177335915,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 20,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 116
+      }
+    },
+    {
+      "tick": 116,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7585195298352101
+      ],
+      "expectedState": {
+        "ball_x": 52.3781441748996,
+        "ball_y": 17.640961377140535,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 20,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 117
+      }
+    },
+    {
+      "tick": 117,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7194629559509368
+      ],
+      "expectedState": {
+        "ball_x": 52.49248728750558,
+        "ball_y": 17.543875576945155,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 20,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 118
+      }
+    },
+    {
+      "tick": 118,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4320930397751037
+      ],
+      "expectedState": {
+        "ball_x": 52.60683040011156,
+        "ball_y": 17.446789776749775,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 119
+      }
+    },
+    {
+      "tick": 119,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6273088407024432
+      ],
+      "expectedState": {
+        "ball_x": 52.72117351271754,
+        "ball_y": 17.349703976554395,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 120
+      }
+    },
+    {
+      "tick": 120,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5840979689127356
+      ],
+      "expectedState": {
+        "ball_x": 52.83551662532352,
+        "ball_y": 17.252618176359015,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 121
+      }
+    },
+    {
+      "tick": 121,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.64984660155482
+      ],
+      "expectedState": {
+        "ball_x": 52.9498597379295,
+        "ball_y": 17.155532376163634,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 122
+      }
+    },
+    {
+      "tick": 122,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.08444432113988909
+      ],
+      "expectedState": {
+        "ball_x": 53.06420285053548,
+        "ball_y": 17.058446575968254,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 123
+      }
+    },
+    {
+      "tick": 123,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.41580740217060963
+      ],
+      "expectedState": {
+        "ball_x": 53.17854596314146,
+        "ball_y": 16.961360775772874,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 124
+      }
+    },
+    {
+      "tick": 124,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.04161417386189248
+      ],
+      "expectedState": {
+        "ball_x": 53.29288907574744,
+        "ball_y": 16.864274975577494,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 125
+      }
+    },
+    {
+      "tick": 125,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.49399081924451893
+      ],
+      "expectedState": {
+        "ball_x": 53.40723218835342,
+        "ball_y": 16.767189175382114,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 126
+      }
+    },
+    {
+      "tick": 126,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.3298612123327853
+      ],
+      "expectedState": {
+        "ball_x": 53.5215753009594,
+        "ball_y": 16.670103375186734,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 127
+      }
+    },
+    {
+      "tick": 127,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.1445241888660469
+      ],
+      "expectedState": {
+        "ball_x": 53.63591841356538,
+        "ball_y": 16.573017574991354,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 128
+      }
+    },
+    {
+      "tick": 128,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.10340296772255164
+      ],
+      "expectedState": {
+        "ball_x": 53.75026152617136,
+        "ball_y": 16.475931774795974,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 129
+      }
+    },
+    {
+      "tick": 129,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.587644572177712
+      ],
+      "expectedState": {
+        "ball_x": 53.86460463877734,
+        "ball_y": 16.378845974600594,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 130
+      }
+    },
+    {
+      "tick": 130,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.1705929685368861
+      ],
+      "expectedState": {
+        "ball_x": 53.978947751383316,
+        "ball_y": 16.281760174405214,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 131
+      }
+    },
+    {
+      "tick": 131,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9251201183767972
+      ],
+      "expectedState": {
+        "ball_x": 54.093290863989296,
+        "ball_y": 16.184674374209834,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 132
+      }
+    },
+    {
+      "tick": 132,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.581061139700395
+      ],
+      "expectedState": {
+        "ball_x": 54.207633976595275,
+        "ball_y": 16.087588574014454,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 133
+      }
+    },
+    {
+      "tick": 133,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.34686980453483707
+      ],
+      "expectedState": {
+        "ball_x": 54.321977089201255,
+        "ball_y": 15.990502773819076,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 12,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 134
+      }
+    },
+    {
+      "tick": 134,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.5909154914814168
+      ],
+      "expectedState": {
+        "ball_x": 54.436320201807234,
+        "ball_y": 15.893416973623697,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 135
+      }
+    },
+    {
+      "tick": 135,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.022803871029697498
+      ],
+      "expectedState": {
+        "ball_x": 54.550663314413214,
+        "ball_y": 15.79633117342832,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 136
+      }
+    },
+    {
+      "tick": 136,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9585592132414453
+      ],
+      "expectedState": {
+        "ball_x": 54.66500642701919,
+        "ball_y": 15.699245373232941,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 137
+      }
+    },
+    {
+      "tick": 137,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.48230343694290023
+      ],
+      "expectedState": {
+        "ball_x": 54.77934953962517,
+        "ball_y": 15.602159573037563,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 138
+      }
+    },
+    {
+      "tick": 138,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7827352272502862
+      ],
+      "expectedState": {
+        "ball_x": 54.89369265223115,
+        "ball_y": 15.505073772842184,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 139
+      }
+    },
+    {
+      "tick": 139,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.08272999992243857
+      ],
+      "expectedState": {
+        "ball_x": 55.00803576483713,
+        "ball_y": 15.407987972646806,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 140
+      }
+    },
+    {
+      "tick": 140,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.48665833083816035
+      ],
+      "expectedState": {
+        "ball_x": 55.12237887744311,
+        "ball_y": 15.310902172451428,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 141
+      }
+    },
+    {
+      "tick": 141,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4907069943545209
+      ],
+      "expectedState": {
+        "ball_x": 55.23672199004909,
+        "ball_y": 15.21381637225605,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 142
+      }
+    },
+    {
+      "tick": 142,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9378264549749828
+      ],
+      "expectedState": {
+        "ball_x": 55.35106510265507,
+        "ball_y": 15.116730572060671,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 143
+      }
+    },
+    {
+      "tick": 143,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5717280523760754
+      ],
+      "expectedState": {
+        "ball_x": 55.46540821526105,
+        "ball_y": 15.019644771865293,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 144
+      }
+    },
+    {
+      "tick": 144,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4734894010569538
+      ],
+      "expectedState": {
+        "ball_x": 55.57975132786703,
+        "ball_y": 14.922558971669915,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 34,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 145
+      }
+    },
+    {
+      "tick": 145,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2669756630918936
+      ],
+      "expectedState": {
+        "ball_x": 55.69409444047301,
+        "ball_y": 14.825473171474536,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 146
+      }
+    },
+    {
+      "tick": 146,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.3315689973425522
+      ],
+      "expectedState": {
+        "ball_x": 55.80843755307899,
+        "ball_y": 14.728387371279158,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 147
+      }
+    },
+    {
+      "tick": 147,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5206724024715378
+      ],
+      "expectedState": {
+        "ball_x": 55.92278066568497,
+        "ball_y": 14.63130157108378,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 148
+      }
+    },
+    {
+      "tick": 148,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4389114603050467
+      ],
+      "expectedState": {
+        "ball_x": 56.03712377829095,
+        "ball_y": 14.534215770888402,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 34,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 149
+      }
+    },
+    {
+      "tick": 149,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.021612079880330426
+      ],
+      "expectedState": {
+        "ball_x": 56.15146689089693,
+        "ball_y": 14.437129970693023,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 150
+      }
+    },
+    {
+      "tick": 150,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8262919241943578
+      ],
+      "expectedState": {
+        "ball_x": 56.26581000350291,
+        "ball_y": 14.340044170497645,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 151
+      }
+    },
+    {
+      "tick": 151,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8961607718397667
+      ],
+      "expectedState": {
+        "ball_x": 56.380153116108886,
+        "ball_y": 14.242958370302267,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 152
+      }
+    },
+    {
+      "tick": 152,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.14024908899861077
+      ],
+      "expectedState": {
+        "ball_x": 56.494496228714866,
+        "ball_y": 14.145872570106889,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 153
+      }
+    },
+    {
+      "tick": 153,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5540361435390494
+      ],
+      "expectedState": {
+        "ball_x": 56.608839341320845,
+        "ball_y": 14.04878676991151,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 32,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 154
+      }
+    },
+    {
+      "tick": 154,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.10857574113544355
+      ],
+      "expectedState": {
+        "ball_x": 56.723182453926825,
+        "ball_y": 13.951700969716132,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 10,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 155
+      }
+    },
+    {
+      "tick": 155,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.6722400930398117
+      ],
+      "expectedState": {
+        "ball_x": 56.837525566532804,
+        "ball_y": 13.854615169520754,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 156
+      }
+    },
+    {
+      "tick": 156,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2812337838390083
+      ],
+      "expectedState": {
+        "ball_x": 56.951868679138784,
+        "ball_y": 13.757529369325376,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 157
+      }
+    },
+    {
+      "tick": 157,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6594226346919018
+      ],
+      "expectedState": {
+        "ball_x": 57.06621179174476,
+        "ball_y": 13.660443569129997,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 158
+      }
+    },
+    {
+      "tick": 158,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7269946142868826
+      ],
+      "expectedState": {
+        "ball_x": 57.18055490435074,
+        "ball_y": 13.563357768934619,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 159
+      }
+    },
+    {
+      "tick": 159,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.768647491917657
+      ],
+      "expectedState": {
+        "ball_x": 57.29489801695672,
+        "ball_y": 13.46627196873924,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 30,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 160
+      }
+    },
+    {
+      "tick": 160,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.10774094595589656
+      ],
+      "expectedState": {
+        "ball_x": 57.4092411295627,
+        "ball_y": 13.369186168543862,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 161
+      }
+    },
+    {
+      "tick": 161,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9160118451376079
+      ],
+      "expectedState": {
+        "ball_x": 57.52358424216868,
+        "ball_y": 13.272100368348484,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 162
+      }
+    },
+    {
+      "tick": 162,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.23021399089488082
+      ],
+      "expectedState": {
+        "ball_x": 57.63792735477466,
+        "ball_y": 13.175014568153106,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 163
+      }
+    },
+    {
+      "tick": 163,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.03741255617617978
+      ],
+      "expectedState": {
+        "ball_x": 57.75227046738064,
+        "ball_y": 13.077928767957728,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 164
+      }
+    },
+    {
+      "tick": 164,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5548524693914834
+      ],
+      "expectedState": {
+        "ball_x": 57.86661357998662,
+        "ball_y": 12.98084296776235,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 165
+      }
+    },
+    {
+      "tick": 165,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.37092228386243875
+      ],
+      "expectedState": {
+        "ball_x": 57.9809566925926,
+        "ball_y": 12.883757167566971,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 166
+      }
+    },
+    {
+      "tick": 166,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8297897431324132
+      ],
+      "expectedState": {
+        "ball_x": 58.09529980519858,
+        "ball_y": 12.786671367371593,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 167
+      }
+    },
+    {
+      "tick": 167,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8082514720643018
+      ],
+      "expectedState": {
+        "ball_x": 58.20964291780456,
+        "ball_y": 12.689585567176215,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 28,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 168
+      }
+    },
+    {
+      "tick": 168,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.31713889282271535
+      ],
+      "expectedState": {
+        "ball_x": 58.32398603041054,
+        "ball_y": 12.592499766980836,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 169
+      }
+    },
+    {
+      "tick": 169,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.952899395069745
+      ],
+      "expectedState": {
+        "ball_x": 58.43832914301652,
+        "ball_y": 12.495413966785458,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 170
+      }
+    },
+    {
+      "tick": 170,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2909178381401186
+      ],
+      "expectedState": {
+        "ball_x": 58.5526722556225,
+        "ball_y": 12.39832816659008,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 171
+      }
+    },
+    {
+      "tick": 171,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5150571292317145
+      ],
+      "expectedState": {
+        "ball_x": 58.667015368228476,
+        "ball_y": 12.301242366394701,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 172
+      }
+    },
+    {
+      "tick": 172,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.25596509056760275
+      ],
+      "expectedState": {
+        "ball_x": 58.781358480834456,
+        "ball_y": 12.204156566199323,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 173
+      }
+    },
+    {
+      "tick": 173,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9360435700489633
+      ],
+      "expectedState": {
+        "ball_x": 58.895701593440435,
+        "ball_y": 12.107070766003945,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 174
+      }
+    },
+    {
+      "tick": 174,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.16460781758201815
+      ],
+      "expectedState": {
+        "ball_x": 59.010044706046415,
+        "ball_y": 12.009984965808567,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 175
+      }
+    },
+    {
+      "tick": 175,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.04491061939232899
+      ],
+      "expectedState": {
+        "ball_x": 59.124387818652394,
+        "ball_y": 11.912899165613188,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 20,
+        "paddle_right_y": 8,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 176
+      }
+    },
+    {
+      "tick": 176,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.43509706000303794
+      ],
+      "expectedState": {
+        "ball_x": 59.238730931258374,
+        "ball_y": 11.81581336541781,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 177
+      }
+    },
+    {
+      "tick": 177,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.992375564055837
+      ],
+      "expectedState": {
+        "ball_x": 59.35307404386435,
+        "ball_y": 11.718727565222432,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 178
+      }
+    },
+    {
+      "tick": 178,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.891677266254914
+      ],
+      "expectedState": {
+        "ball_x": 59.46741715647033,
+        "ball_y": 11.621641765027054,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 179
+      }
+    },
+    {
+      "tick": 179,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7486080194569492
+      ],
+      "expectedState": {
+        "ball_x": 59.58176026907631,
+        "ball_y": 11.524555964831675,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 180
+      }
+    },
+    {
+      "tick": 180,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8907924908785249
+      ],
+      "expectedState": {
+        "ball_x": 59.69610338168229,
+        "ball_y": 11.427470164636297,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 181
+      }
+    },
+    {
+      "tick": 181,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8934466396978632
+      ],
+      "expectedState": {
+        "ball_x": 59.81044649428827,
+        "ball_y": 11.330384364440919,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 182
+      }
+    },
+    {
+      "tick": 182,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5188583603864491
+      ],
+      "expectedState": {
+        "ball_x": 59.92478960689425,
+        "ball_y": 11.23329856424554,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 183
+      }
+    },
+    {
+      "tick": 183,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.315929051830793
+      ],
+      "expectedState": {
+        "ball_x": 60.03913271950023,
+        "ball_y": 11.136212764050162,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 184
+      }
+    },
+    {
+      "tick": 184,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.772012432110988
+      ],
+      "expectedState": {
+        "ball_x": 60.15347583210621,
+        "ball_y": 11.039126963854784,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 185
+      }
+    },
+    {
+      "tick": 185,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6616612631677611
+      ],
+      "expectedState": {
+        "ball_x": 60.26781894471219,
+        "ball_y": 10.942041163659406,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 186
+      }
+    },
+    {
+      "tick": 186,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.37365772887371007
+      ],
+      "expectedState": {
+        "ball_x": 60.38216205731817,
+        "ball_y": 10.844955363464027,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 26,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 187
+      }
+    },
+    {
+      "tick": 187,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.09446666806151527
+      ],
+      "expectedState": {
+        "ball_x": 60.49650516992415,
+        "ball_y": 10.74786956326865,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 188
+      }
+    },
+    {
+      "tick": 188,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.746789611349026
+      ],
+      "expectedState": {
+        "ball_x": 60.61084828253013,
+        "ball_y": 10.650783763073271,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 24,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 189
+      }
+    },
+    {
+      "tick": 189,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2624605159228647
+      ],
+      "expectedState": {
+        "ball_x": 60.72519139513611,
+        "ball_y": 10.553697962877893,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 190
+      }
+    },
+    {
+      "tick": 190,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9368131505337792
+      ],
+      "expectedState": {
+        "ball_x": 60.83953450774209,
+        "ball_y": 10.456612162682514,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 22,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 191
+      }
+    },
+    {
+      "tick": 191,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.24097057500568475
+      ],
+      "expectedState": {
+        "ball_x": 60.95387762034807,
+        "ball_y": 10.359526362487136,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 20,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 192
+      }
+    },
+    {
+      "tick": 192,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.12275793241148603
+      ],
+      "expectedState": {
+        "ball_x": 61.068220732954046,
+        "ball_y": 10.262440562291758,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 18,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 193
+      }
+    },
+    {
+      "tick": 193,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8311126721249061
+      ],
+      "expectedState": {
+        "ball_x": 61.182563845560026,
+        "ball_y": 10.16535476209638,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 18,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 194
+      }
+    },
+    {
+      "tick": 194,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.15328431662449404
+      ],
+      "expectedState": {
+        "ball_x": 61.296906958166005,
+        "ball_y": 10.068268961901001,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 16,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 195
+      }
+    },
+    {
+      "tick": 195,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.1792683081577391
+      ],
+      "expectedState": {
+        "ball_x": 61.411250070771985,
+        "ball_y": 9.971183161705623,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 14,
+        "paddle_right_y": 6,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 196
+      }
+    },
+    {
+      "tick": 196,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.5993827915208435
+      ],
+      "expectedState": {
+        "ball_x": 61.525593183377964,
+        "ball_y": 9.874097361510245,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 16,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 197
+      }
+    },
+    {
+      "tick": 197,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8745620408374645
+      ],
+      "expectedState": {
+        "ball_x": 61.639936295983944,
+        "ball_y": 9.777011561314866,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 16,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 198
+      }
+    },
+    {
+      "tick": 198,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.19643466571457324
+      ],
+      "expectedState": {
+        "ball_x": 61.75427940858992,
+        "ball_y": 9.679925761119488,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 14,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 199
+      }
+    },
+    {
+      "tick": 199,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.31032367290009477
+      ],
+      "expectedState": {
+        "ball_x": 61.8686225211959,
+        "ball_y": 9.58283996092411,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 12,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 200
+      }
+    },
+    {
+      "tick": 200,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7774048382411776
+      ],
+      "expectedState": {
+        "ball_x": 61.98296563380188,
+        "ball_y": 9.485754160728732,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 12,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 201
+      }
+    },
+    {
+      "tick": 201,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9718264260609674
+      ],
+      "expectedState": {
+        "ball_x": 62.09730874640786,
+        "ball_y": 9.388668360533353,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 12,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 202
+      }
+    },
+    {
+      "tick": 202,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5007411862023423
+      ],
+      "expectedState": {
+        "ball_x": 62.21165185901384,
+        "ball_y": 9.291582560337975,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 14,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 203
+      }
+    },
+    {
+      "tick": 203,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.14389750255125078
+      ],
+      "expectedState": {
+        "ball_x": 62.32599497161982,
+        "ball_y": 9.194496760142597,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 12,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 204
+      }
+    },
+    {
+      "tick": 204,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.013936287708201545
+      ],
+      "expectedState": {
+        "ball_x": 62.4403380842258,
+        "ball_y": 9.097410959947219,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 10,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 205
+      }
+    },
+    {
+      "tick": 205,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.22965602999885526
+      ],
+      "expectedState": {
+        "ball_x": 62.55468119683178,
+        "ball_y": 9.00032515975184,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 8,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 206
+      }
+    },
+    {
+      "tick": 206,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.13182221778652103
+      ],
+      "expectedState": {
+        "ball_x": 62.66902430943776,
+        "ball_y": 8.903239359556462,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 207
+      }
+    },
+    {
+      "tick": 207,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.6776586736128575
+      ],
+      "expectedState": {
+        "ball_x": 62.78336742204374,
+        "ball_y": 8.806153559361084,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 208
+      }
+    },
+    {
+      "tick": 208,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.12183250462853112
+      ],
+      "expectedState": {
+        "ball_x": 62.89771053464972,
+        "ball_y": 8.709067759165706,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 209
+      }
+    },
+    {
+      "tick": 209,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.506329931620633
+      ],
+      "expectedState": {
+        "ball_x": 63.0120536472557,
+        "ball_y": 8.611981958970327,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 210
+      }
+    },
+    {
+      "tick": 210,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.6942624356428865
+      ],
+      "expectedState": {
+        "ball_x": 63.12639675986168,
+        "ball_y": 8.514896158774949,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 211
+      }
+    },
+    {
+      "tick": 211,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5811166092209024
+      ],
+      "expectedState": {
+        "ball_x": 63.24073987246766,
+        "ball_y": 8.41781035857957,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 8,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 212
+      }
+    },
+    {
+      "tick": 212,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.19977565166005762
+      ],
+      "expectedState": {
+        "ball_x": 63.355082985073636,
+        "ball_y": 8.320724558384192,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 213
+      }
+    },
+    {
+      "tick": 213,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8041245261822627
+      ],
+      "expectedState": {
+        "ball_x": 63.469426097679616,
+        "ball_y": 8.223638758188814,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 214
+      }
+    },
+    {
+      "tick": 214,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7154071296158017
+      ],
+      "expectedState": {
+        "ball_x": 63.583769210285595,
+        "ball_y": 8.126552957993436,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 215
+      }
+    },
+    {
+      "tick": 215,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7389840039155418
+      ],
+      "expectedState": {
+        "ball_x": 63.698112322891575,
+        "ball_y": 8.029467157798058,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 216
+      }
+    },
+    {
+      "tick": 216,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.13105775155731325
+      ],
+      "expectedState": {
+        "ball_x": 63.812455435497554,
+        "ball_y": 7.932381357602679,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 4,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 217
+      }
+    },
+    {
+      "tick": 217,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.12375380365034461
+      ],
+      "expectedState": {
+        "ball_x": 63.926798548103534,
+        "ball_y": 7.835295557407301,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 218
+      }
+    },
+    {
+      "tick": 218,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9275625510065076
+      ],
+      "expectedState": {
+        "ball_x": 64.04114166070951,
+        "ball_y": 7.738209757211923,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 219
+      }
+    },
+    {
+      "tick": 219,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.39757819382494064
+      ],
+      "expectedState": {
+        "ball_x": 64.1554847733155,
+        "ball_y": 7.641123957016545,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 220
+      }
+    },
+    {
+      "tick": 220,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.30094869178093975
+      ],
+      "expectedState": {
+        "ball_x": 64.26982788592147,
+        "ball_y": 7.544038156821166,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 221
+      }
+    },
+    {
+      "tick": 221,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4885840453515333
+      ],
+      "expectedState": {
+        "ball_x": 64.38417099852745,
+        "ball_y": 7.446952356625788,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 222
+      }
+    },
+    {
+      "tick": 222,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6628642127635824
+      ],
+      "expectedState": {
+        "ball_x": 64.49851411113343,
+        "ball_y": 7.34986655643041,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 223
+      }
+    },
+    {
+      "tick": 223,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9556232570469699
+      ],
+      "expectedState": {
+        "ball_x": 64.61285722373941,
+        "ball_y": 7.2527807562350315,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 224
+      }
+    },
+    {
+      "tick": 224,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.286446226882055
+      ],
+      "expectedState": {
+        "ball_x": 64.72720033634539,
+        "ball_y": 7.155694956039653,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 225
+      }
+    },
+    {
+      "tick": 225,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9248084293120271
+      ],
+      "expectedState": {
+        "ball_x": 64.84154344895137,
+        "ball_y": 7.058609155844275,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 226
+      }
+    },
+    {
+      "tick": 226,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.024859491386256316
+      ],
+      "expectedState": {
+        "ball_x": 64.95588656155735,
+        "ball_y": 6.961523355648897,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 227
+      }
+    },
+    {
+      "tick": 227,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5551980423268247
+      ],
+      "expectedState": {
+        "ball_x": 65.07022967416333,
+        "ball_y": 6.864437555453518,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 228
+      }
+    },
+    {
+      "tick": 228,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6339751116810851
+      ],
+      "expectedState": {
+        "ball_x": 65.18457278676931,
+        "ball_y": 6.76735175525814,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 229
+      }
+    },
+    {
+      "tick": 229,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.1058974037507533
+      ],
+      "expectedState": {
+        "ball_x": 65.29891589937529,
+        "ball_y": 6.670265955062762,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 230
+      }
+    },
+    {
+      "tick": 230,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.14033959706391264
+      ],
+      "expectedState": {
+        "ball_x": 65.41325901198127,
+        "ball_y": 6.573180154867384,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 231
+      }
+    },
+    {
+      "tick": 231,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.41911431931630383
+      ],
+      "expectedState": {
+        "ball_x": 65.52760212458725,
+        "ball_y": 6.476094354672005,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 232
+      }
+    },
+    {
+      "tick": 232,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9662319121431817
+      ],
+      "expectedState": {
+        "ball_x": 65.64194523719323,
+        "ball_y": 6.379008554476627,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 233
+      }
+    },
+    {
+      "tick": 233,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5960425532343728
+      ],
+      "expectedState": {
+        "ball_x": 65.7562883497992,
+        "ball_y": 6.281922754281249,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 234
+      }
+    },
+    {
+      "tick": 234,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.9330232216002112
+      ],
+      "expectedState": {
+        "ball_x": 65.87063146240519,
+        "ball_y": 6.1848369540858705,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 235
+      }
+    },
+    {
+      "tick": 235,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8043609156129707
+      ],
+      "expectedState": {
+        "ball_x": 65.98497457501117,
+        "ball_y": 6.087751153890492,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 236
+      }
+    },
+    {
+      "tick": 236,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4673816015552915
+      ],
+      "expectedState": {
+        "ball_x": 66.09931768761714,
+        "ball_y": 5.990665353695114,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 8,
+        "paddle_right_y": 2,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 237
+      }
+    },
+    {
+      "tick": 237,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.7847634492521874
+      ],
+      "expectedState": {
+        "ball_x": 66.21366080022312,
+        "ball_y": 5.893579553499736,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 8,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 238
+      }
+    },
+    {
+      "tick": 238,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.017836783976987736
+      ],
+      "expectedState": {
+        "ball_x": 66.3280039128291,
+        "ball_y": 5.7964937533043575,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 239
+      }
+    },
+    {
+      "tick": 239,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.10914399676573494
+      ],
+      "expectedState": {
+        "ball_x": 66.44234702543508,
+        "ball_y": 5.699407953108979,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 240
+      }
+    },
+    {
+      "tick": 240,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8294286148827363
+      ],
+      "expectedState": {
+        "ball_x": 66.55669013804106,
+        "ball_y": 5.602322152913601,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 241
+      }
+    },
+    {
+      "tick": 241,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7968170883251617
+      ],
+      "expectedState": {
+        "ball_x": 66.67103325064704,
+        "ball_y": 5.505236352718223,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 242
+      }
+    },
+    {
+      "tick": 242,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.2326407419664337
+      ],
+      "expectedState": {
+        "ball_x": 66.78537636325302,
+        "ball_y": 5.408150552522844,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 243
+      }
+    },
+    {
+      "tick": 243,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.5307695905990535
+      ],
+      "expectedState": {
+        "ball_x": 66.899719475859,
+        "ball_y": 5.311064752327466,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 244
+      }
+    },
+    {
+      "tick": 244,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6060158207000109
+      ],
+      "expectedState": {
+        "ball_x": 67.01406258846498,
+        "ball_y": 5.213978952132088,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 245
+      }
+    },
+    {
+      "tick": 245,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8677389537760112
+      ],
+      "expectedState": {
+        "ball_x": 67.12840570107096,
+        "ball_y": 5.11689315193671,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 246
+      }
+    },
+    {
+      "tick": 246,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6031071573387257
+      ],
+      "expectedState": {
+        "ball_x": 67.24274881367694,
+        "ball_y": 5.019807351741331,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 8,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 247
+      }
+    },
+    {
+      "tick": 247,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4125715692736803
+      ],
+      "expectedState": {
+        "ball_x": 67.35709192628292,
+        "ball_y": 4.922721551545953,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 10,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 248
+      }
+    },
+    {
+      "tick": 248,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.3741840434071827
+      ],
+      "expectedState": {
+        "ball_x": 67.4714350388889,
+        "ball_y": 4.825635751350575,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 12,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 249
+      }
+    },
+    {
+      "tick": 249,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.4258820863735099
+      ],
+      "expectedState": {
+        "ball_x": 67.58577815149488,
+        "ball_y": 4.7285499511551965,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 14,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 250
+      }
+    },
+    {
+      "tick": 250,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.6519310255799742
+      ],
+      "expectedState": {
+        "ball_x": 67.70012126410086,
+        "ball_y": 4.631464150959818,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 16,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 251
+      }
+    },
+    {
+      "tick": 251,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8674906317523249
+      ],
+      "expectedState": {
+        "ball_x": 67.81446437670684,
+        "ball_y": 4.53437835076444,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 16,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 252
+      }
+    },
+    {
+      "tick": 252,
+      "leftAction": "down",
+      "rightAction": "none",
+      "randomValues": [
+        0.45389688207629975
+      ],
+      "expectedState": {
+        "ball_x": 67.92880748931282,
+        "ball_y": 4.437292550569062,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 18,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 253
+      }
+    },
+    {
+      "tick": 253,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.24783956295135812
+      ],
+      "expectedState": {
+        "ball_x": 68.0431506019188,
+        "ball_y": 4.340206750373683,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 16,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 254
+      }
+    },
+    {
+      "tick": 254,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.23666236299758114
+      ],
+      "expectedState": {
+        "ball_x": 68.15749371452478,
+        "ball_y": 4.243120950178305,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 14,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 255
+      }
+    },
+    {
+      "tick": 255,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.7460142802434464
+      ],
+      "expectedState": {
+        "ball_x": 68.27183682713076,
+        "ball_y": 4.146035149982927,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 14,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 256
+      }
+    },
+    {
+      "tick": 256,
+      "leftAction": "none",
+      "rightAction": "none",
+      "randomValues": [
+        0.8165687634239104
+      ],
+      "expectedState": {
+        "ball_x": 68.38617993973673,
+        "ball_y": 4.048949349787549,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 14,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 257
+      }
+    },
+    {
+      "tick": 257,
+      "leftAction": "up",
+      "rightAction": "none",
+      "randomValues": [
+        0.10527807985412496
+      ],
+      "expectedState": {
+        "ball_x": 68.50052305234271,
+        "ball_y": 3.9518635495921703,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 12,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 258
+      }
+    },
+    {
+      "tick": 258,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.06655885695517816
+      ],
+      "expectedState": {
+        "ball_x": 68.6148661649487,
+        "ball_y": 3.854777749396792,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 10,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 259
+      }
+    },
+    {
+      "tick": 259,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.5944336637564518
+      ],
+      "expectedState": {
+        "ball_x": 68.72920927755467,
+        "ball_y": 3.757691949201414,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 12,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 260
+      }
+    },
+    {
+      "tick": 260,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.14617324419269828
+      ],
+      "expectedState": {
+        "ball_x": 68.84355239016065,
+        "ball_y": 3.6606061490060355,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 10,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 261
+      }
+    },
+    {
+      "tick": 261,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.8246641904563413
+      ],
+      "expectedState": {
+        "ball_x": 68.95789550276663,
+        "ball_y": 3.5635203488106573,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 10,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 262
+      }
+    },
+    {
+      "tick": 262,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.31033467392407443
+      ],
+      "expectedState": {
+        "ball_x": 69.07223861537261,
+        "ball_y": 3.466434548615279,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 8,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 263
+      }
+    },
+    {
+      "tick": 263,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.14387193297114265
+      ],
+      "expectedState": {
+        "ball_x": 69.18658172797859,
+        "ball_y": 3.3693487484199007,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 264
+      }
+    },
+    {
+      "tick": 264,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.9209704724874502
+      ],
+      "expectedState": {
+        "ball_x": 69.30092484058457,
+        "ball_y": 3.2722629482245225,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 265
+      }
+    },
+    {
+      "tick": 265,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.16553172273527816
+      ],
+      "expectedState": {
+        "ball_x": 69.41526795319055,
+        "ball_y": 3.175177148029144,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 266
+      }
+    },
+    {
+      "tick": 266,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.28472008233793555
+      ],
+      "expectedState": {
+        "ball_x": 69.52961106579653,
+        "ball_y": 3.078091347833766,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 267
+      }
+    },
+    {
+      "tick": 267,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.15361339519205863
+      ],
+      "expectedState": {
+        "ball_x": 69.64395417840251,
+        "ball_y": 2.9810055476383877,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 268
+      }
+    },
+    {
+      "tick": 268,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.11549006366535497
+      ],
+      "expectedState": {
+        "ball_x": 69.75829729100849,
+        "ball_y": 2.8839197474430094,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 269
+      }
+    },
+    {
+      "tick": 269,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.021148016336440034
+      ],
+      "expectedState": {
+        "ball_x": 69.87264040361447,
+        "ball_y": 2.786833947247631,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 270
+      }
+    },
+    {
+      "tick": 270,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.05539540916426011
+      ],
+      "expectedState": {
+        "ball_x": 69.98698351622045,
+        "ball_y": 2.689748147052253,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 271
+      }
+    },
+    {
+      "tick": 271,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.1746414709358527
+      ],
+      "expectedState": {
+        "ball_x": 70.10132662882643,
+        "ball_y": 2.5926623468568746,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 272
+      }
+    },
+    {
+      "tick": 272,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.05338193262717539
+      ],
+      "expectedState": {
+        "ball_x": 70.21566974143241,
+        "ball_y": 2.4955765466614963,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 273
+      }
+    },
+    {
+      "tick": 273,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.5911438161109712
+      ],
+      "expectedState": {
+        "ball_x": 70.33001285403839,
+        "ball_y": 2.398490746466118,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 274
+      }
+    },
+    {
+      "tick": 274,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.6807145267995064
+      ],
+      "expectedState": {
+        "ball_x": 70.44435596664437,
+        "ball_y": 2.3014049462707398,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 275
+      }
+    },
+    {
+      "tick": 275,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.39363045683202824
+      ],
+      "expectedState": {
+        "ball_x": 70.55869907925035,
+        "ball_y": 2.2043191460753615,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 276
+      }
+    },
+    {
+      "tick": 276,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.3179910969520494
+      ],
+      "expectedState": {
+        "ball_x": 70.67304219185633,
+        "ball_y": 2.1072333458799832,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 277
+      }
+    },
+    {
+      "tick": 277,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.5045262370222301
+      ],
+      "expectedState": {
+        "ball_x": 70.7873853044623,
+        "ball_y": 2.010147545684605,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 278
+      }
+    },
+    {
+      "tick": 278,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.8750049422346086
+      ],
+      "expectedState": {
+        "ball_x": 70.90172841706828,
+        "ball_y": 1.9130617454892267,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 279
+      }
+    },
+    {
+      "tick": 279,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.851131626822206
+      ],
+      "expectedState": {
+        "ball_x": 71.01607152967426,
+        "ball_y": 1.8159759452938484,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 280
+      }
+    },
+    {
+      "tick": 280,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.04347506201279194
+      ],
+      "expectedState": {
+        "ball_x": 71.13041464228024,
+        "ball_y": 1.7188901450984702,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 281
+      }
+    },
+    {
+      "tick": 281,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.18149840959652408
+      ],
+      "expectedState": {
+        "ball_x": 71.24475775488622,
+        "ball_y": 1.6218043449030919,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 282
+      }
+    },
+    {
+      "tick": 282,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.23674487110439602
+      ],
+      "expectedState": {
+        "ball_x": 71.3591008674922,
+        "ball_y": 1.5247185447077136,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 283
+      }
+    },
+    {
+      "tick": 283,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.24938757583221183
+      ],
+      "expectedState": {
+        "ball_x": 71.47344398009818,
+        "ball_y": 1.4276327445123353,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 284
+      }
+    },
+    {
+      "tick": 284,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.5712326517427727
+      ],
+      "expectedState": {
+        "ball_x": 71.58778709270416,
+        "ball_y": 1.330546944316957,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 285
+      }
+    },
+    {
+      "tick": 285,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.4162624257031923
+      ],
+      "expectedState": {
+        "ball_x": 71.70213020531014,
+        "ball_y": 1.2334611441215788,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 286
+      }
+    },
+    {
+      "tick": 286,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.04925411992759399
+      ],
+      "expectedState": {
+        "ball_x": 71.81647331791612,
+        "ball_y": 1.1363753439262005,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 287
+      }
+    },
+    {
+      "tick": 287,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.3736141384595716
+      ],
+      "expectedState": {
+        "ball_x": 71.9308164305221,
+        "ball_y": 1.0392895437308223,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 288
+      }
+    },
+    {
+      "tick": 288,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.5237529487176372
+      ],
+      "expectedState": {
+        "ball_x": 72.04515954312808,
+        "ball_y": 0.942203743535444,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 6,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 289
+      }
+    },
+    {
+      "tick": 289,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.10167190290371597
+      ],
+      "expectedState": {
+        "ball_x": 72.15950265573406,
+        "ball_y": 0.8451179433400657,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 290
+      }
+    },
+    {
+      "tick": 290,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.8334585537885597
+      ],
+      "expectedState": {
+        "ball_x": 72.27384576834004,
+        "ball_y": 0.7480321431446875,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 4,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 291
+      }
+    },
+    {
+      "tick": 291,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.051961866465104256
+      ],
+      "expectedState": {
+        "ball_x": 72.38818888094602,
+        "ball_y": 0.6509463429493092,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 292
+      }
+    },
+    {
+      "tick": 292,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.9248418690180621
+      ],
+      "expectedState": {
+        "ball_x": 72.502531993552,
+        "ball_y": 0.5538605427539309,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 293
+      }
+    },
+    {
+      "tick": 293,
+      "leftAction": "up",
+      "rightAction": "up",
+      "randomValues": [
+        0.0991131415798755
+      ],
+      "expectedState": {
+        "ball_x": 72.61687510615798,
+        "ball_y": 0.45677474255855266,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 294
+      }
+    },
+    {
+      "tick": 294,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.8435749515977528
+      ],
+      "expectedState": {
+        "ball_x": 72.73121821876396,
+        "ball_y": 0.3596889423631744,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 295
+      }
+    },
+    {
+      "tick": 295,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.9026531439276171
+      ],
+      "expectedState": {
+        "ball_x": 72.84556133136994,
+        "ball_y": 0.2626031421677961,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 296
+      }
+    },
+    {
+      "tick": 296,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.9795706805865927
+      ],
+      "expectedState": {
+        "ball_x": 72.95990444397592,
+        "ball_y": 0.16551734197241785,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 297
+      }
+    },
+    {
+      "tick": 297,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.8020258802735936
+      ],
+      "expectedState": {
+        "ball_x": 73.0742475565819,
+        "ball_y": 0.06843154177703958,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": -0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 298
+      }
+    },
+    {
+      "tick": 298,
+      "leftAction": "none",
+      "rightAction": "up",
+      "randomValues": [
+        0.7794775407713289
+      ],
+      "expectedState": {
+        "ball_x": 73.18859066918787,
+        "ball_y": 0.028654258418338685,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": 0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 0,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 299
+      }
+    },
+    {
+      "tick": 299,
+      "leftAction": "down",
+      "rightAction": "up",
+      "randomValues": [
+        0.6424832759955477
+      ],
+      "expectedState": {
+        "ball_x": 73.30293378179385,
+        "ball_y": 0.12574005861371695,
+        "ball_vx": 0.1143431126059768,
+        "ball_vy": 0.09708580019537827,
+        "ball_speed": 0.15,
+        "paddle_left_y": 2,
+        "paddle_right_y": 0,
+        "score_left": 0,
+        "score_right": 0,
+        "tick": 300
+      }
+    }
+  ]
+}

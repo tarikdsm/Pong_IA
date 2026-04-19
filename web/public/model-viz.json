@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "frameStack": 5,
+  "bitmapWidth": 80,
+  "bitmapHeight": 60,
+  "hiddenDims": [
+    200,
+    200,
+    100
+  ],
+  "firstLayerNeurons": 200,
+  "weightsUrl": "model-first-layer.uint8.bin",
+  "weightsEncoding": "uint8-centered-per-neuron-absmax",
+  "zeroLevel": 128
+}

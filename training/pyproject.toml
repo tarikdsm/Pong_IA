@@ -1,0 +1,26 @@
+[project]
+name = "pong-training"
+version = "0.1.0"
+description = "Training package for Pong IA."
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.9,<4.0",
+    "numpy>=2.4,<3.0",
+    "onnx>=1.17,<2.0",
+    "torch>=2.4,<3.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
