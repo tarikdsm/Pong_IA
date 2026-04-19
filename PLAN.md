@@ -30,9 +30,9 @@
 - [x] **VIZ.4** Cobrir export e frontend com testes automatizados de regressao.
 - [x] **VIZ.5** Reexportar o modelo atual para a web e validar a stack completa.
 - [x] **VIZ.6** Melhorar o zoom/layout responsivo do frontend para acomodar o painel dedicado em janelas menores.
-- [ ] **DEPLOY.1** Ajustar frontend e build para funcionar em GitHub Pages, inclusive em subcaminho de repositorio.
-- [ ] **DEPLOY.2** Adicionar workflow/documentacao de deploy no GitHub Pages.
-- [ ] **DEPLOY.3** Inicializar git local, conectar ao repositorio remoto e publicar no GitHub sem perder a validacao local.
+- [x] **DEPLOY.1** Ajustar frontend e build para funcionar em GitHub Pages, inclusive em subcaminho de repositorio.
+- [x] **DEPLOY.2** Adicionar workflow/documentacao de deploy no GitHub Pages.
+- [x] **DEPLOY.3** Inicializar git local, conectar ao repositorio remoto e publicar no GitHub sem perder a validacao local.
 
 ---
 
@@ -58,6 +58,12 @@
   - os pesos do neuronio mais ativado da primeira camada
 - O frontend agora aplica escala automatica do layout para encaixar jogo e
   painel dedicado no viewport sem depender de rolagem vertical da pagina.
+- O frontend e o build ficaram compatíveis com GitHub Pages usando caminhos
+  relativos para `model.onnx`, `model-viz.json` e
+  `model-first-layer.uint8.bin`, inclusive em subcaminho de repositorio.
+- O repositório foi inicializado localmente, publicado em
+  `https://github.com/tarikdsm/Pong_IA` e configurado com Pages em modo
+  `workflow`.
 - A feature degrada com graca quando o artefato auxiliar nao existe: o jogo
   segue funcionando e a visualizacao mostra indisponibilidade sem derrubar a
   inferencia.
